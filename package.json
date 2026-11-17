@@ -1,0 +1,1 @@
+{"description":"Xray VLESS+WS on Abasthan Free plan. No secrets in this repo: UUID and WS_PATH come from Abasthan environment variables.","name":"abasthan-xray","private":true,"scripts":{"start":"./start.sh"},"version":"1.0.0"}
